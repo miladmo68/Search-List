@@ -1,31 +1,32 @@
-# 🔍 Sorted & Filtered User List (React)
+# 🔍 Search & Sort List — React
 
-A simple and clean React component that demonstrates **searching, filtering, and sorting** a list of users — built as part of an **Intermediate Front-End Coding Task**.
+A simple React project that demonstrates **searching and sorting a list of users** using clean logic and reusable components.  
+Built as a **Day 5 – Intermediate Front-End Coding Task**.
 
 ---
 
 ## ✨ Features
 
 ✅ Search users by name  
-✅ Sort users by age (Ascending / Descending)  
-✅ Clean component structure  
-✅ Reusable components  
+✅ Sort users by age (Younger / Older)  
+✅ Reusable components (Search & Sort)  
+✅ Clean and readable logic  
 ✅ Styled with Tailwind CSS  
 
 ---
 
-## 🧠 Concepts Used
+## 🧠 Concepts Covered
 
 - ⚛️ React Functional Components  
 - 🎯 `useState` for state management  
-- 🔎 Array `filter()` for searching  
-- 🔢 Array `sort()` for sorting  
-- 🧩 Component composition  
-- 🎨 Tailwind CSS for styling  
+- 🔎 `Array.filter()` for search  
+- 🔢 `Array.sort()` for sorting  
+- 🧩 Component-based architecture  
+- 🎨 Tailwind CSS styling  
 
 ---
 
-## 📦 Data Structure
+## 📦 Sample Data
 
 ```js
 const users = [
